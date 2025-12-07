@@ -10,4 +10,5 @@ Majoring in `Electronics & Telecommunications Engineering`
 ### Interests
 `Data Science`, `Cybersecurity`, `Hardware Engineering`,`App Dev`, `Web Dev` and `Game Dev`
 
+I also have a [blog](https://joelcodes.hashnode.dev/)!
 
