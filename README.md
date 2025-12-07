@@ -1,5 +1,13 @@
 ## Hi, I'm Joel
 
-I'm currently a `Freshman` majoring in `Electronics & Telecommunications Engineering`, know a little bit of `Python` and `HTML/CSS`, want to learn `C/C++` and `JavaScript` in the near future.
+I'm currently a `Freshman` 
+Majoring in `Electronics & Telecommunications Engineering` 
 
-Interested in `Data Science`, `Cybersecurity`, `Hardware Engineering`,`App Dev`, `Web Dev` and `Game Dev`.
+#### Stack 
+**Languages:** Python, HTML/CSS/JS, C
+**Libraries & Frameworks:** Flask, React.js, TS
+
+#### Interests
+`Data Science`, `Cybersecurity`, `Hardware Engineering`,`App Dev`, `Web Dev` and `Game Dev`
+
+
