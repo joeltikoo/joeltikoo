@@ -3,11 +3,11 @@
 I'm currently a `Freshman` 
 Majoring in `Electronics & Telecommunications Engineering` 
 
-#### Stack 
-**Languages:** Python, HTML/CSS/JS, C
-**Libraries & Frameworks:** Flask, React.js, TS
+### Stack 
+**Languages:** `Python`, `HTML/CSS/JS`, `C`
+**Libraries & Frameworks:** `Flask`, `React.js`, `TS`
 
-#### Interests
+### Interests
 `Data Science`, `Cybersecurity`, `Hardware Engineering`,`App Dev`, `Web Dev` and `Game Dev`
 
 
