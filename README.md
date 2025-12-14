@@ -1,7 +1,7 @@
 ## Hi, I'm Joel
 
 I'm currently a `Freshman` 
-Majoring in `Electronics & Telecommunications Engineering` 
+majoring in `Electronics & Telecommunications Engineering` 
 
 ### Stack 
 - **Languages:** `Python`, `HTML/CSS/JS`, `C`
