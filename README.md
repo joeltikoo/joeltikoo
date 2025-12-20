@@ -8,7 +8,7 @@ majoring in `Electronics & Telecommunications Engineering`
 - **Libraries & Frameworks:** `Flask`, `React.js`, `TS`
 
 ### Interests
-`Data Science`, `Cybersecurity`, `Hardware Engineering`,`App Dev`, `Web Dev` and `Game Dev`
+`Data Science`, `Cybersecurity`, `AIML`, `Hardware Engineering`,`App Dev`, `Web Dev` and `Game Dev`
 
 
 I also have a [blog](https://joelcodes.hashnode.dev/)!
