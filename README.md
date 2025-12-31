@@ -5,7 +5,7 @@ majoring in `Electronics & Telecommunications Engineering`
 
 ### Stack 
 - **Languages:** `Python`, `HTML/CSS/JS`, `C`
-- **Libraries & Frameworks:** `Flask`, `React.js`, `TS`
+- **Libraries & Frameworks:** `Flask`, `Django`, `React.js`, `TS`
 
 ### Interests
 `Data Science`, `Cybersecurity`, `AIML`, `Hardware Engineering`,`App Dev`, `Web Dev` and `Game Dev`
