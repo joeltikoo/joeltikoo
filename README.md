@@ -1,6 +1,6 @@
 ## Hi, I'm Joel
 
-I'm currently a `Freshman` 
+I'm currently a `Freshman` from `India`
 majoring in `Electronics & Telecommunications Engineering` 
 
 ### Stack 
