@@ -11,5 +11,6 @@ majoring in `Electronics & Telecommunications Engineering`
 `Data Science`, `Cybersecurity`, `AIML`, `Hardware Engineering`,`App Dev`, `Web Dev` and `Game Dev`
 
 
-I also have a [blog](https://joelcodes.hashnode.dev/)!
+I also have a [blog](https://joelcodes.hashnode.dev/) 
+
 Open to remote internships (industry & research)!
