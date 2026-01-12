@@ -4,7 +4,7 @@ I'm currently a `Freshman` from `India`
 majoring in `Electronics & Telecommunications Engineering` 
 
 ### Stack 
-- **Languages:** `Python`, `HTML/CSS/JS`, `C`
+- **Languages:** `Python`, `HTML/CSS/JS`, `C`, `R`
 - **Libraries & Frameworks:** `Flask`, `Django`, `React.js`, `TS`
 
 ### Interests
