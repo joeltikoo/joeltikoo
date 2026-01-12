@@ -12,4 +12,4 @@ majoring in `Electronics & Telecommunications Engineering`
 
 
 I also have a [blog](https://joelcodes.hashnode.dev/)!
-
+Open to remote internships (industry & research)!
