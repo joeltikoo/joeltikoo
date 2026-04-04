@@ -7,7 +7,7 @@ Portfolio: [https://joelt.vercel.app](https://joelt.vercel.app)
 
 ### Stack 
 - **Languages:** `Python`, `HTML/CSS/JS`, `C`, `TS`, `R`
-- **Libraries & Frameworks:** `Flask`, `Django`, `React.js`, `TS`, `numpy`, `pandas`, `matplotlib`
+- **Libraries & Frameworks:** `Flask`, `Django`, `React.js`, `TS`, `numpy`, `pandas`, `matplotlib`, `Streamlit`, `Jupyter Notebook`
 
 ### Interests
 `Data Science`, `Cybersecurity`, `AIML`, `Hardware Engineering`,`App Dev`, `Web Dev` and `Game Dev`
