@@ -1,6 +1,6 @@
 ## Hi, I'm Joel
 
-I'm currently a `Freshman` from `India`
+I'm currently a `rising sophomore` from `India`
 majoring in `Electronics & Telecommunications Engineering` 
 
 Portfolio: [https://joelt.vercel.app](https://joelt.vercel.app)
