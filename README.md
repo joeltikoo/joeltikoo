@@ -6,7 +6,7 @@ majoring in `Electronics & Telecommunications Engineering`
 Portfolio: [https://joelt.vercel.app](https://joelt.vercel.app)
 
 ### Stack 
-- **Languages:** `Python`, `HTML/CSS/JS`, `C`, `TS`, `R`
+- **Languages:** `Python`, `HTML/CSS/JS`, `C`, `TS`, `R`, `SQL`
 - **Libraries & Frameworks:** `Flask`, `Django`, `React.js`, `TS`, `numpy`, `pandas`, `matplotlib`, `Streamlit`, `Jupyter Notebook`
 
 ### Interests
