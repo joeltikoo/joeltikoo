@@ -10,7 +10,7 @@ Portfolio: [https://joelt.vercel.app](https://joelt.vercel.app)
 - **Libraries & Frameworks:** `Flask`, `Django`, `React.js`, `TS`, `numpy`, `pandas`, `matplotlib`, `Streamlit`, `Jupyter Notebook`
 
 ### Interests
-`Data Science`, `Cybersecurity`, `AIML`, `Hardware Engineering`,`App Dev`, `Web Dev` and `Game Dev`
+`Data Science`, `Cybersecurity`, `AIML`, `Hardware Engineering`, `Systems Engineering`, `App Dev`, `Web Dev` and `Game Dev`
 
 ### ------
 Open to remote internships (industry & research) and contract-based roles.
