@@ -6,8 +6,8 @@ majoring in `Electronics & Telecommunications Engineering`
 Portfolio: [https://joelt.vercel.app](https://joelt.vercel.app)
 
 ### Stack 
-- **Languages:** `Python`, `HTML/CSS/JS`, `C`, `TS`, `R`, `SQL`
-- **Libraries & Frameworks:** `Flask`, `Django`, `React.js`, `TypeScript`, `Tailwind CSS`, `numpy`, `pandas`, `matplotlib`, `Streamlit`, `Jupyter Notebook`
+- **Languages:** `Python`, `HTML/CSS/JS`, `C`, `TypeScript`, `R`, `SQL`
+- **Libraries & Frameworks:** `Flask`, `Django`, `React.js`, `Tailwind CSS`, `numpy`, `pandas`, `matplotlib`, `Streamlit`, `Jupyter Notebook`
 
 ### Interests
 `Data Science`, `Cybersecurity`, `AIML`, `Hardware Engineering`, `Systems Engineering`, `App Dev`, `Web Dev` and `Game Dev`
